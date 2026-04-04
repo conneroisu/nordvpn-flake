@@ -6,11 +6,11 @@
     flake-utils.url = "github:numtide/flake-utils";
     hercules-ci-effects.url = "github:hercules-ci/hercules-ci-effects";
     nordvpn-amd64-deb = {
-      url = "https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/n/nordvpn/nordvpn_4.2.0_amd64.deb";
+      url = "https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/n/nordvpn/nordvpn_4.5.0_amd64.deb";
       flake = false;
     };
     nordvpn-arm64-deb = {
-      url = "https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/n/nordvpn/nordvpn_4.2.0_arm64.deb";
+      url = "https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/n/nordvpn/nordvpn_4.5.0_arm64.deb";
       flake = false;
     };
   };
